@@ -1,0 +1,73 @@
+img.logo{
+	width: 297px;
+	height: 109px;
+	border-radius: 10px;
+	margin: 50px 25px;
+}
+
+body{
+	background: black;
+}
+
+div.mylogo{
+	margin-top: 15px;
+	font-family: "Comic Sans MS";
+	color: gray;
+	text-align: center;
+	font-size: 100px;
+}
+
+div.name{
+	margin-right: 15%;
+	margin-left: 15%;
+	clear: both;
+	background: #f8f8f8;
+	border-style: groove; 
+	font-family: "Comic Sans MS";
+	font-size: 20px;
+	color : black;
+	text-align: center;
+	border-radius: 10px;
+}
+
+div.map{
+	float: left;
+	color: white;
+	min-width: 100px;
+	width: 600px;
+	height: 500px;
+	margin: 20px;
+}
+
+
+div.mytext{
+	margin-left: 5%;
+	margin-top: 80px;
+	width: 500px;
+	height: 400px;
+	float: left;
+}
+
+textarea {
+	min-width: 100px;
+	height: 50%;
+	width: 100%;
+	border-radius: 10px;
+	background-color: #f8f8f8;
+	font-size: 16px;
+}
+button.mybutton{
+	width: 100%;
+	height: 10%;
+	font-size: 20px;
+	font-family: "Comic Sans MS";
+}
+div.final {
+	clear: both;
+	margin: 100px;
+	font-family: "Comic Sans MS"; 
+	color: white;
+	text-align: center;
+}
+
+

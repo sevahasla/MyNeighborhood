@@ -1,0 +1,56 @@
+body{
+	background-color: black;
+}
+
+img.logo{
+	width: 297px;
+	height: 109px;
+	border-radius: 10px;
+	margin: 50px 25px;
+}
+
+div.mylogo{
+	margin-top: 15px;
+	font-family: "Comic Sans MS";
+	color: gray;
+	text-align: center;
+	font-size: 100px;
+}
+
+div.mainname{
+	clear: both;
+	text-align: center;
+	font-family: "Comic Sans MS";
+	color: white;
+	font-size: 100px;
+}
+
+div.map{
+	float: left;
+	color: white;
+	min-width: 100px;
+	width: 600px;
+	height: 500px;
+	margin: 20px;
+}
+
+
+div.final {
+	clear: both;
+	margin: 100px;
+	font-family: "Comic Sans MS"; 
+	color: white;
+	text-align: center;
+}
+
+div.post{
+	margin-left: 5%;
+	margin-top: 80px;
+	width: 500px;
+	height: 400px;
+	float: left;
+	font-size: 50px;
+	color: white;
+}
+
+
