@@ -1,5 +1,5 @@
 var source = new ol.source.Vector({
-    url: '../data.geojson',
+    url: './data.geojson',
     format: new ol.format.GeoJSON()
   });
   const fillStyle = new ol.style.Fill({
@@ -95,14 +95,6 @@ map.on('click', function (evt) {
         image: circleStyle
     })
   });
-
-
-
-
-
-
-
-  
   map.addLayer(place);
 }
 
